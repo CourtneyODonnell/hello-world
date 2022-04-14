@@ -1,2 +1,2 @@
-hello.
-this is a test.
+Hello there, line one.
+Welcome to line two.
